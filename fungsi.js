@@ -12,5 +12,3 @@ console.log(multiply(3,8));
 const devide = (a,b) => a/b;
 console.log(devide(6,2));
 
-const add = (a,b) => a-b;
-console.log(kurang(3,2);
